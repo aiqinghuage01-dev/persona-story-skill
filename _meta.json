@@ -1,0 +1,9 @@
+{
+  "name": "人设故事",
+  "version": "2.0.0",
+  "description": "员工视角讲老板，人设型短视频口播文案生成",
+  "author": "清华哥",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code", "cline"],
+  "requirements": {},
+  "entry": "SKILL.md"
+}
