@@ -1,0 +1,21 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 3,
+  "role": "编剧",
+  "avatar": {
+    "style": "lorelei",
+    "seed": "storyteller-warm"
+  },
+  "capabilities": [
+    "file_write"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "员工视角讲老板，人设型短视频口播文案"
+}
